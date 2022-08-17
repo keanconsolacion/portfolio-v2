@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  
+  body{
+    @apply w-full min-h-screen bg-bgColor font-mono
+  }
+
+  .anim-hover-scale{
+    @apply hover:scale-105 duration-200
+  }
+
+  .anim-hover-scale-110{
+    @apply hover:scale-110 duration-200
+  }
+
+  .anim-hover-scale-150{
+    @apply hover:scale-150 duration-200
+  }
+}
