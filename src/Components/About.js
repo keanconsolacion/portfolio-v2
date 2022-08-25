@@ -7,8 +7,7 @@ const About = () => {
       <h1 className="text-primary font-bold text-3xl md:text-5xl">Ke'an Consolacion.</h1>
       <h1 className="text-accent text-xl md:text-3xl">An Aspiring Software Engineer.</h1>
       <p className="text-accent text-xs mt-5 md:text-lg">
-        A fresh graduate from iACADEMY who took a degree in Computer Science majoring in Software Engineering and is currently focusing on front-end
-        and back-end technologies to make web applications.
+        A fresh graduate from iACADEMY who took a degree in Computer Science majoring in Software Engineering and is currently focusing on developing web & mobile applications.
       </p>
 
       <div className="mt-4 flex flex-col gap-2">
